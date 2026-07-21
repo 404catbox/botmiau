@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "miauzinha.aternos.me",
-    "port": 43573,
+    "ip": "miautestebot.aternos.me",
+    "port": 23085,
     "version": "",
     "try-creative": false
   },
